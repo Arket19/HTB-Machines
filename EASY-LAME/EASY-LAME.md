@@ -1,4 +1,4 @@
-# EASY - LAME
+# EASY - LAME 
 
 # 1. Enumeration
 
