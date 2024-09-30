@@ -1,4 +1,4 @@
-# EASY-BASHED
+# EASY - BASHED
 
 # 1. Enumeration
 
