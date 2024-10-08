@@ -16,7 +16,7 @@ To determine the target's operating system, I initiated a ping test. The Time-To
 
 The scan revealed the following open ports:
 
-- **FTP** on port 80
+- **HTTP** on port 80
 
 Next, I performed a more detailed scan on port 80 with service version detection (`-sV`) and used the Nmap Scripting Engine (NSE) with default scripts (`-sC`). I saved the output for reference using the `-oN` flag.
 
