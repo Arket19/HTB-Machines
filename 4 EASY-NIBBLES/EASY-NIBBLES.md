@@ -1,4 +1,4 @@
-# EASY-NIBBLES -todo
+# EASY-NIBBLES
 
 # 1. Enumeration
 
