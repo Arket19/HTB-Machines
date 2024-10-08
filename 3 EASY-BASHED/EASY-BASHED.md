@@ -24,7 +24,7 @@ Next, I performed a more detailed scan on port 80 with service version detection
 
 ## 1.2 Web Enumeration
 
-After scanning, I utilized `whatweb` to identify the technologies used by the HTTP service. The web interface resembled a blog and displayed a tool called **phpbash**, which appeared to function as a web shell allowing command execution.There was an image where a directory path could be seen (`/uploads/phpbash.php`), but it was empty when accessed.
+After scanning for services, I utilized `whatweb` to identify the technologies used by the HTTP service. The web interface resembled a blog and displayed a tool called **phpbash**, which appeared to function as a web shell allowing command execution.There was an image where a directory path could be seen (`/uploads/phpbash.php`), but it was empty when accessed.
 
 Subsequently, I executed the following command to enumerate directories on the web server: `gobuster dir -u [http://10.10.10.68](http://10.10.10.68/) -w /usr/share/wordlists/dirb/common.txt -o results.txt -x html,php,py,conf,txt,log,xml,sh`
 
