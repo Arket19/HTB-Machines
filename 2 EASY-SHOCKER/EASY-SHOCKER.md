@@ -8,7 +8,7 @@ I started pinging the target to check if it was a Linux or a Windows system. The
 
 The scan has revealed the following open ports:
 
-- **FTP** on port 80
+- **HTTP** on port 80
 - **SSH** on port 2222 (not the default port)
 
  Then, I conducted a more thorough scan to those two ports using service version detection (`-sV`) and the Nmap Scripting Engine (NSE) with default scripts (`-sC`). I also saved the output for easy reference later (`-oN nmap`).
