@@ -15,7 +15,7 @@ The scan revealed the following open ports:
 - **HTTP** on port 80
 - **HTTPS** on port 443
 
-Then, I conducted a more thorough scan to those two ports using service version detection (`-sV`) and the Nmap Scripting Engine (NSE) with default scripts (`-sC`). I also saved the output for easy reference later (`-oN nmap`).
+Then, I conducted a more thorough scan on those two ports using service version detection (`-sV`) and the Nmap Scripting Engine (NSE) with default scripts (`-sC`). I also saved the output for easy reference later (`-oN nmap`).
 
 ![image.png](EASY-SENSE/image%202.png)
 
