@@ -1,4 +1,4 @@
-# EASY-SENSE
+# EASY - SENSE
 
 # 1. Enumeration
 
