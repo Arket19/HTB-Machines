@@ -1,4 +1,4 @@
-# EASY-NIBBLES
+# EASY - NIBBLES
 
 # 1. Enumeration
 
