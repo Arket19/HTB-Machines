@@ -1,4 +1,4 @@
-# MEDIUM-CRONOS
+# MEDIUM - CRONOS
 
 # 1. Enumeration
 
