@@ -1,4 +1,4 @@
-# MEDIUM- SOLIDSTATE
+# MEDIUM - SOLIDSTATE
 
 # 1. Enumeration
 
