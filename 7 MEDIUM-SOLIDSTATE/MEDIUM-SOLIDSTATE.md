@@ -43,7 +43,7 @@ I attempted to use `dig` to find the DNS server for the domain and then perform 
 
 ![image.png](MEDIUM-SOLIDSTATE/image%206.png)
 
-## 1.4 Port 4555 Enumeration
+## 2 Gaining Access
 
 Since I was unfamiliar with the RSIP service, I attempted to connect to it using netcat and discovered a login prompt, but I didn’t have the credentials. I searched for known vulnerabilities using **Searchsploit** and found two remote command execution scripts. While reviewing one of them, I came across what appeared to be the default crdentials. I tried them and was able to log in successfully.
 
